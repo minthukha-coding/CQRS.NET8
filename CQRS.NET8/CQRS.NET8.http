@@ -1,0 +1,6 @@
+@CQRS.NET8_HostAddress = http://localhost:5153
+
+GET {{CQRS.NET8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
